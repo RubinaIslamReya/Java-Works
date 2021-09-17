@@ -1,0 +1,6 @@
+Food Id :101 --- 10 item Added
+Food Id :201 --- 10 item Added
+Food Id :301 --- 50 item Added
+Food Id :401 --- 50 item Added
+Food Id :301 --- 20 item Sold
+Food Id :401 --- 30 item Sold
